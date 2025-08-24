@@ -1,3 +1,4 @@
+
 <h1 align="center" id="title">Ozone Layer Depletion Analysis and prediction</h1>
 
 <p id="description">This project analyzes and forecasts changes in Earth's ozone layer using advanced image processing and machine learning techniques. We process satellite images from Ozone Watch extract numerical data and use Facebook's Prophet for time series forecasting.</p>
